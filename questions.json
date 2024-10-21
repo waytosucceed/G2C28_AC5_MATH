@@ -1,0 +1,112 @@
+[
+    {
+        "questionNo": "Q1",
+        "question": "Helping Hands Club had 57 sandwiches. They served 33 sandwiches. How many sandwiches are left?",
+        "options": [
+            "24",
+            "22",
+            "25",
+            "23"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q2",
+        "question": "Ruby had 49 apples. She served 28 apples. How many apples are left?",
+        "options": [
+            "23",
+            "25",
+            "21",
+            "22"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q3",
+        "question": "The club had 53 juice boxes. They used 30 juice boxes. How many juice boxes are left?",
+        "options": [
+            "25",
+            "23",
+            "21",
+            "24"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q4",
+        "question": "Ruby’s Helping Hands Club had 66 cookies. They served 46 cookies. How many cookies are left?",
+        "options": [
+            "17",
+            "19",
+            "18",
+            "20"
+        ],
+        "correct": 3
+    },
+    {
+        "questionNo": "Q5",
+        "question": "Ruby had 34 bags of chips. She used 23 bags. How many bags of chips are left?",
+        "options": [
+            "11",
+            "13",
+            "12",
+            "14"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q6",
+        "question": "Ruby’s Helping Hands Club collected 58 bananas. They served 45 bananas. How many bananas are left?",
+        "options": [
+            "12",
+            "11",
+            "13",
+            "14"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q7",
+        "question": "The club had 66 water bottles. They used 45 water bottles. How many water bottles are left?",
+        "options": [
+            "19",
+            "22",
+            "23",
+            "21"
+        ],
+        "correct": 3
+    },
+    {
+        "questionNo": "Q8",
+        "question": "Ruby had 59 pies. She served 24 pies. How many pies are left?",
+        "options": [
+            "35",
+            "34",
+            "36",
+            "31"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q9",
+        "question": "They had 65 bread rolls. They served 53 bread rolls. How many bread rolls are left?",
+        "options": [
+            "13",
+            "12",
+            "11",
+            "14"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q10",
+        "question": "The club had 74 dessert bars. They served 32 dessert bars. How many dessert bars are left?",
+        "options": [
+            "43",
+            "45",
+            "42",
+            "41"
+        ],
+        "correct": 2
+    }
+]
